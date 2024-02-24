@@ -1,0 +1,6 @@
+user_id,is_user_logged_in,password,user_name,user_role
+73aa5331-7b3d-46ba-a838-669cd681d6d0,f,prab123,Prabhat,ADMIN
+93b3a075-f2f5-4107-8785-ab0cadf0ff91,f,raj123,Rajesh,Customer
+a7de59fa-9de0-4351-9dba-190f3d43aac9,f,password,harsh,ADMIN
+e62b0152-ac86-42a2-9b9e-151279932332,f,john_doe,John Doe,customer
+e7ad5586-7b85-43d5-837d-5abbdb21df83,f,abh123,Abhishek Katthal,Customer
